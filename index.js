@@ -1,5 +1,6 @@
 function add() {
-  var number (a) + var number (b)
+  var number (a)
+  var number (b)
   return (a += b)
 }
 

@@ -1,8 +1,8 @@
-var a = 10
-var b = 5
+var a = 1000
+var b = 37
 
 function add() {
-  return (1000 += 37)
+  return a += b
 }
 
 function subtract() {

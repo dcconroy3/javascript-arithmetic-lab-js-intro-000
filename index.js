@@ -1,5 +1,4 @@
-var a = 5
-var b = 5
+var number = 10
 
 function add() {
   return (a+b)

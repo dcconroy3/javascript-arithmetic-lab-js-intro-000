@@ -23,7 +23,9 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  
+
 }
 
-function perserveDecimal(n)
+function perserveDecimal(n) {
+
+}

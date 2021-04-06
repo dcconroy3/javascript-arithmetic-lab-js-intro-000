@@ -24,5 +24,3 @@ function increment(n) {
 function decrement(n) {
 
 }
-
- 
